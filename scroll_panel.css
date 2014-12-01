@@ -1,0 +1,22 @@
+.scroll_panel{
+	width: 10px;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: gray;
+}
+.scroll_panel .scroll_btn{
+	width: 10px;
+	height: 10px;
+	background: #0bd;
+	position: absolute;
+}
+.scroll_header{
+	height: 0;
+	margin: 0;
+}
+.scroll_footer{
+	height: 0;
+	margin: 0;
+}
